@@ -32,6 +32,7 @@ PACKAGES = {
             "brave-bin", "k3s-bin"
         ],
         "flatpak": [
+            # Gnome
             "com.mattjakeman.ExtensionManager"
         ]
     }
