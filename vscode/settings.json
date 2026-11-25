@@ -1,23 +1,49 @@
 {
-    "workbench.colorTheme": "Dark Modern",
-    "workbench.colorCustomizations": {
-        "editor.background": "#000000",
-        "sideBar.background": "#000000",
-        "activityBar.background": "#000000",
-        "titleBar.activeBackground": "#000000",
-        "panel.background": "#000000",
-        "terminal.background": "#000000"
-    },
-    "files.autoSave": "afterDelay",
+    "database-client.autoSync": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "'Noto Mono','Droid Sans Mono', 'monospace'",
+    "editor.fontSize": 16,
+    "terminal.integrated.stickyScroll.enabled": false,
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontLigatures": false,
+    "editor.codeLens": true,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.parameterHints.enabled": false,
+    "editor.inlineSuggest.enabled": true,
     "workbench.iconTheme": "vscode-icons",
-    "github.copilot.nextEditSuggestions.enabled": false,
-    "github.copilot.enable": {
-        "*": false,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false,
-        "shellscript": false
-    },
-    "editor.fontSize": 16
+    "workbench.colorCustomizations": {
+    "editor.background": "#000000",
+    "sideBar.background": "#000000",
+    "activityBar.background": "#000000",
+    "titleBar.activeBackground": "#000000",
+    "panel.background": "#000000",
+    "terminal.background": "#000000",
+    "editorSuggestWidget.background": "#000000",
+    "editorSuggestWidget.border": "#1a1a1a",
+    "editorSuggestWidget.selectedBackground": "#1a1a1a",
+    "tab.activeBackground": "#000000",
+    "list.activeSelectionBackground": "#1a1a1a",
+    "list.inactiveSelectionBackground": "#1a1a1a"
+},
+"github.copilot.nextEditSuggestions.enabled": false,
+"github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "python": false
+},
+"terminal.integrated.suggest.enabled": false,
+"files.autoSave": "afterDelay",
+"code-runner.runInTerminal": true,
+"C_Cpp.debugShortcut": false,
+"editor.unicodeHighlight.invisibleCharacters": false,
+"liveServer.settings.donotShowInfoMsg": true,
+"git.openRepositoryInParentFolders": "never",
+"aws.cloudformation.telemetry.enabled": false,
+"workbench.startupEditor": "none",
+"editor.quickSuggestions": false,
+"workbench.colorTheme": "Dark Modern"
 }
 
