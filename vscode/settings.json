@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Dark Modern",
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "sideBar.background": "#000000",
+        "activityBar.background": "#000000",
+        "titleBar.activeBackground": "#000000",
+        "panel.background": "#000000",
+        "terminal.background": "#000000"
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "vscode-icons",
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "shellscript": false
+    },
+    "editor.fontSize": 16
+}
+
