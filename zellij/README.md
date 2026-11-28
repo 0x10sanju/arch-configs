@@ -1,3 +1,3 @@
 # Path
 
-.config/zellij/config.kdl
+~/.config/zellij/config.kdl
